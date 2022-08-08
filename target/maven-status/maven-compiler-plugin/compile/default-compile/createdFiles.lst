@@ -1,0 +1,7 @@
+vista\VentanaRegistro.class
+modulo\star\software\ModuloStarSoftware.class
+dao\UsuarioDao.class
+presentacion\Controlador.class
+models\Usuario.class
+vista\VentanaLogin.class
+presentacion\Modelo.class
